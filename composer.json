@@ -1,0 +1,17 @@
+{
+    "name": "jdcprog/framework-mvc",
+    "description": "Projeto MVC em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jdcprog",
+            "email": "josue.davi.costa@outlook.com"
+        }
+    ],
+    "require": {}
+}
